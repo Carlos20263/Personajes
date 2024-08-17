@@ -1,0 +1,17 @@
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+background-color: lightslategray
+}
+h1{
+    color: #95D2B3
+}
+h2{
+    color: #55AD9B
+}
+h3{
+    color: #F1F8E8
+
+}
